@@ -1,0 +1,20 @@
+[[collection]]
+type = "card"
+title = "Tokio"
+link = "https://example.com"
+content = "Tokio is an asynchronous runtime for the Rust programming language."
+tags = ["rust", "async", "runtime"]
+
+[[collection]]
+type = "card"
+title = "Kubernetes"
+link = "https://example.com"
+content = "Kubernetes is an open source system for managing containerized applications."
+tags = ["k8s", "golang"]
+
+[[collection]]
+type = "card"
+title = "Next.js"
+link = "https://example.com"
+content = "Next.js is a React framework for building full-stack web applications."
+tags = ["typescript", "react", "frontend"]
